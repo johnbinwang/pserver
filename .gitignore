@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+*.log
+CMakeCache.txt
+CMakeFiles
+.gitignore
+pserver
+Makefile
+build.sh
+./pid/server.pid
